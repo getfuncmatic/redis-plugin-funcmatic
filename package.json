@@ -1,6 +1,6 @@
 {
   "name": "@funcmatic/redis-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Redis Client Plugin for the Funcmatic Lambda JS Framework",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/getfuncmatic/redis-plugin-funcmatic.git"
   },
   "dependencies": {
-    "@funcmatic/simple-redis": "^1.0.1",
+    "@funcmatic/simple-redis": "^1.1.0",
     "dotenv": "^6.0.0"
   },
   "devDependencies": {
